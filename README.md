@@ -145,7 +145,7 @@ NIM        | Nama       | Hadir% | Akhir | Pred
 
 ## 👨‍💻 Pengembang
 
-**Nama:** Kiki Mahesta
+**Nama:** Eka Rizki Suwarno
 **Kelas:** TI-23A5
 **Dosen Pengampu:** Bapak Triyono, S.Kom
 **Mata Kuliah:** Dasar Algoritma Pemrograman
