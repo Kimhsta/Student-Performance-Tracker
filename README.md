@@ -98,8 +98,6 @@ Atau jalankan langsung sebagai modul:
 python3 -m tracker
 ```
 
----
-
 ## 🧭 Menu CLI
 
 ```
@@ -157,6 +155,12 @@ python3 -m tracker
   ![Error pilihan lebih dari 9](Image/error_pilihan_lebih_9.png)
   ![Lanjutan error 1](Image/lanjutan%20error%201.png)
   ![Lanjutan error 2](Image/lanjutan%20error%202.png)
+
+- **Output Tracker**  
+  ![Menu utama](Image/Tracker%20ketika%20dijalankan.png)
+  ![Menu utama](Image/report.md.png)
+
+---
 
 ---
 
