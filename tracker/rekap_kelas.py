@@ -80,7 +80,3 @@ class RekapKelas:
                     'predikat': self.predikat(skor),
                 })
         return hasil
-
-    # util opsional untuk load cepat dari dict simple
-    def tambah_mahasiswa_manual(self, nim, nama):
-        self.tambah_mahasiswa(Mahasiswa(nim, nama))

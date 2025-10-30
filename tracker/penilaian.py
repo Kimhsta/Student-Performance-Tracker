@@ -1,8 +1,4 @@
-"""Komponen penilaian + perhitungan nilai akhir berbobot."""
-
 class Penilaian:
-    """Menyimpan nilai quiz, tugas, uts, uas; validasi 0..100; hitung nilai akhir."""
-
     def __init__(self, quiz=0, tugas=0, uts=0, uas=0):
         self._quiz = 0.0
         self._tugas = 0.0

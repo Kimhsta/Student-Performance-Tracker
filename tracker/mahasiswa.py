@@ -1,12 +1,8 @@
-"""Model Mahasiswa + enkapsulasi presensi."""
-
 class Mahasiswa:
-    """Mewakili entitas mahasiswa dengan NIM, nama, dan persentase kehadiran."""
-
     def __init__(self, nim, nama):
         self.nim = nim
         self.nama = nama
-        self._hadir_persen = 0.0  # gunakan property untuk akses
+        self._hadir_persen = 0.0  
 
     @property
     def hadir_persen(self):
